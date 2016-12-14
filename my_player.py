@@ -28,6 +28,7 @@ class Dealer(Player):
 
     pass
 
+
 class User(Player):
 
     def user_draw(self):
